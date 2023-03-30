@@ -6,14 +6,15 @@ This is a web application that allows users to search for healthy and nutritious
 # Technologies Used
 • React.js
 • Bootstrap
-•Edamam's APIReact
-•npm
-•vercel
-•CSS module
-•Git Workflow
-•CSS
+• Edamam's APIReact
+• npm
+• vercel
+• CSS module
+• Git Workflow
+• CSS
+• Vercel
 
-Vercel
+# recipe-api-blush.vercel.app
 
 # Installation and Setup
 To install and run this project on your local machine, follow the instructions below:
