@@ -17,7 +17,7 @@ This is a web application that allows users to search for healthy and nutritious
 https://recipe-api-blush.vercel.app
 
 # Installation and Setup
-To install and run this project on your local machine, follow the instructions below:
+To install and run this project on your local machine, follow the instructions for:
 
 # Clone the GitHub repository:
 git clone https://github.com/yourusername/recipe-search.git
