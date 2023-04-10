@@ -14,6 +14,7 @@ This is a web application that allows users to search for healthy and nutritious
 • CSS
 • Vercel
 
+
 https://recipe-api-blush.vercel.app
 
 # Installation and Setup
