@@ -13,7 +13,7 @@ This is a web application that allows users to search for healthy and nutritious
 • Vercel
 
 
-https://recipe-api-blush.vercel.app
+[🔗 Project](https://recipe-api-blush.vercel.app)
 
 # Installation and Setup
 To install and run this project on your local machine, follow the instructions for:
