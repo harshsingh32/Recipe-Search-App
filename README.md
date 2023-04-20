@@ -7,7 +7,8 @@ This is a web application that allows users to search for healthy and nutritious
 # Technologies Used
 • React.js
 • Bootstrap
-• Edamam's APIReact
+• Edamam's API 
+• React
 • npm
 • vercel
 • CSS module
