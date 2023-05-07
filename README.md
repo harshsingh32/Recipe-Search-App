@@ -10,7 +10,6 @@ This is a web application that allows users to search for healthy and nutritious
 • Edamam's API 
 • React
 • npm
-• vercel
 • CSS module
 • Git Workflow
 • CSS
