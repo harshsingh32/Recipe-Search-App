@@ -1,5 +1,5 @@
 # Recipe Search App
-This is a web application that allows users to search for healthy and nutritious food recipes using the Edamam's API. The app allows users to search for recipes based on specific ingredients, cuisine, meal type, and dietary restrictions. The app also provides information on the nutritional value of each recipe, including calorie count, macronutrient breakdown, and other key nutrients.
+This is a web application that allows users to search for healthy and nutritious food recipes using the Edamam's API. The app allows users to search for recipes based on specific ingredients, cuisine, meal type, and dietary restrictions. The app also provides information on the nutritional value of each recipe, including calorie count, macronutrient breakdown.
 
 
 [🔗 Project](https://recipe-api-blush.vercel.app)
