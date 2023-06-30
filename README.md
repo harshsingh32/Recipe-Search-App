@@ -39,11 +39,11 @@ npm start
 # Features
 The Recipe Search app includes the following features:
 
-Search for recipes based on ingredients, cuisine, meal type, and dietary restrictions
-View recipe details, including ingredients, instructions, and nutritional information
-Save favorite recipes to a user's profile for easy access
+1. Search for recipes based on ingredients, cuisine, meal type, and dietary restrictions
+View recipe details, including ingredients, instructions, and nutritional information.
+2. Save favorite recipes to a user's profile for easy access
 Create a shopping list for ingredients needed for a recipe
-View and edit user profile information
+3. View and edit user profile information
 
 # API Usage
 The Recipe Search app uses the Edamam API to retrieve recipe and nutrition data. The API requires an app id and app key, which are passed in as environment variables.
