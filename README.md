@@ -1,11 +1,11 @@
-# Recipe Search App
+## [Recipe Search App 🥗](https://recipe-api-blush.vercel.app)
 
-This is a web application that allows users to search for healthy and nutritious food recipes using the Edamam's API. The app allows users to search for recipes based on specific ingredients, cuisine, meal type, and dietary restrictions. The app also provides information on the nutritional value of each recipe, including calorie count, breakdown, preparing chart.
+Welcome to the Recipe Search App! This web application allows users to discover healthy and nutritious food recipes using Edamam's API. Whether you're a seasoned chef 👨‍🍳 or a culinary enthusiast 👩‍🍳, our app makes finding the perfect recipe a breeze.The app also provides information on the nutritional value of each recipe, including calorie count, breakdown, preparing chart.
 
 
-[🔗 Project](https://recipe-api-blush.vercel.app)
+## [🔗 Project](https://recipe-api-blush.vercel.app)
 
-# Technologies Used
+## Technologies Used
 • React.js
 • Bootstrap
 • Edamam's API 
