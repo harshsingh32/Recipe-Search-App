@@ -6,15 +6,14 @@ Welcome to the Recipe Search App! This web application allows users to discover 
 ## [🔗 Project](https://recipe-api-blush.vercel.app)
 
 ## Technologies Used
-• React.js
-• Bootstrap
-• Edamam's API 
-• React
-• npm
-• CSS 
-• Git Workflow
-• CSS
-• Vercel
+* React.js
+* Bootstrap
+* Edamam's API
+* React
+* npm
+* Git Workflow
+* CSS
+* Vercel
 
 
 
