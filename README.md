@@ -21,12 +21,12 @@ Welcome to the Recipe Search App! This web application allows users to discover 
 To install and run this project on your local machine, follow the instructions for:
 
 # Clone the GitHub repository:
-git clone https://github.com/yourusername/recipe-search.git
+* git clone https://github.com/yourusername/recipe-search.git
 
-Navigate to the project directory:
+* Navigate to the project directory:
 cd recipe-search
 
-Install the required dependencies:
+* Install the required dependencies:
 Create a .env file in the root directory of the project and add your Edamam API credentials as follows:
 makefile
 REACT_APP_EDAMAM_APP_ID=<your app id>
